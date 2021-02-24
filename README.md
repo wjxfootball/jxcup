@@ -1,5 +1,4 @@
-# 超业余足球联赛网站生成器
-# Super Unprofessional League Website Generator
+# 东南大学吴院健雄杯足球赛网站
 
 By shrekshao狄学长
 
