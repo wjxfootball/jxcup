@@ -1,0 +1,31 @@
+{
+    "date": "2020/12/05/12:00",
+    "type": "b-group-r1",
+    "images": [
+    
+    ],
+    "home": {
+        "key": "2-345",
+        "score": 3,
+        "events": [
+    
+            {"type": "goal", "time": 8, "player": "周宇浩"},
+            {"type": "goal", "time": 15, "player": "俞书剑"},
+            {"type": "goal", "time": 25, "player": "高明浩"},
+            {"type":"yellow","time":38,"player":"丁易"},
+            {"type":"off","time":40,"player":"谭哲"},
+            {"type":"sub","time":40,"player":"周子雯"}
+
+        ]
+    },
+    "away": {
+        "key": "1-123",
+        "score": 2,
+        "events": [
+            {"type": "goal", "time": 5, "player": "丁梓健"},
+            {"type":"off","time":28,"player":"谯彦康"},
+            {"type":"sub","time":40,"player":"焦政兴"},
+            {"type": "penalty", "time": 40, "player": "丁梓健"}
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "date": "2020/12/13/12:00",
+    "type": "a-group-r1",
+    "images": [
+    
+    ],
+    "home": {
+        "key": "1-45",
+        "score": 3,
+        "events": [
+    
+            {"type": "goal", "time": 5, "player": "龚培原"},
+            {"type": "goal", "time": 38, "player": "龚培原"},
+            {"type": "goal", "time": 57, "player": "龚培原"}
+           
+
+        ]
+    },
+    "away": {
+        "key": "1-67",
+        "score": 3,
+        "events": [
+            {"type": "owngoal", "time": 10, "player": "罗潇（乌龙）"},
+            {"type": "goal", "time": 45, "player": "叶子良"},
+            {"type": "goal", "time": 52, "player": "黄一粟"}
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "date": "2020/12/20/12:00",
+    "type": "a-group-r2",
+    "images": [
+    
+    ],
+    "home": {
+        "key": "3-3",
+        "score": 1,
+        "events": [
+            {"type": "goal", "time": 58, "player": "肖煜坤"}
+        ]
+    },
+    "away": {
+        "key": "1-67",
+        "score": 1,
+        "events": [
+            {"type": "goal", "time": 45, "player": "李常郡"}
+        ]
+    }
+}

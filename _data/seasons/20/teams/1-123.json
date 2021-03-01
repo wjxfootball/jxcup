@@ -1,0 +1,80 @@
+{
+    "display_name": "大一123丝滑队",
+    "description": "",
+    "logo": "placeholder-club.jpg",
+    "players": {
+        "starting": [
+            {
+                "number": 1,
+                "name": "姚宏骏",
+                "img": "placeholder-player.jpg",
+                "position": "门将",
+                "locator": "GK"
+            }
+            ,{
+                "number": 7,
+                "name": "谯彦康",
+                "img": "placeholder-player.jpg",
+                "position": "前锋",
+                "locator": "LW"
+            }
+            ,{
+                "number": 99,
+                "name": "崔家盛",
+                "img": "placeholder-player.jpg",
+                "position": "后卫",
+                "locator": "LCB"
+            }
+            ,{
+                "number": 10,
+                "name": "丁梓健",
+                "img": "placeholder-player.jpg",
+                "position": "前锋",
+                "locator": "LW",
+                "played": 5
+            }
+            ,{
+                "number": 8,
+                "name": "焦政兴",
+                "img": "placeholder-player.jpg",
+                "position": "中场",
+                "locator": "RCM",
+                "played": 5
+            }
+            ,{
+                "number": 19,
+                "name": "徐浩然",
+                "img": "placeholder-player.jpg",
+                "position": "中场",
+                "locator": "LCM",
+                "played": 5
+            }
+            ,{
+                "number": 4,
+                "name": "夏晨龙",
+                "img": "placeholder-player.jpg",
+                "position": "前锋",
+                "locator": "ST",
+                "played": 5
+            }
+            ,{
+                "number": 20,
+                "name": "罗志宇",
+                "img": "placeholder-player.jpg",
+                "position": "后卫",
+                "locator": "LCM",
+                "played": 5
+            }
+            ,{
+                "number": 13,
+                "name": "周任坤",
+                "img": "placeholder-player.jpg",
+                "position": "后卫",
+                "locator": "RCM",
+                "played": 5
+            }
+        ],
+        "subs": [
+        ]
+    }
+}

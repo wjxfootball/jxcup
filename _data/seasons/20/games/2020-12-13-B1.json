@@ -1,0 +1,30 @@
+{
+    "date": "2020/12/13/12:00",
+    "type": "b-group-r1",
+    "images": [
+    
+    ],
+    "home": {
+        "key": "3-united",
+        "score": 3,
+        "events": [
+    
+            {"type":"yellow","time":28,"player":"刘子源"},
+            {"type": "goal", "time": 35, "player": "夏世杰"},
+            {"type":"off","time":45,"player":"时雨"},
+            {"type":"sub","time":45,"player":"徐天韵"},
+            {"type": "goal", "time": 50, "player": "徐天韵"},
+            {"type": "goal", "time": 55, "player": "徐天韵"}
+
+        ]
+    },
+    "away": {
+        "key": "1-123",
+        "score": 1,
+        "events": [
+            {"type":"yellow","time":43,"player":"安淇楚"},
+            {"type": "goal", "time": 63, "player": "顾严鹏"}
+            
+        ]
+    }
+}

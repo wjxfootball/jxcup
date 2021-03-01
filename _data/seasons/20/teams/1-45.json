@@ -1,0 +1,99 @@
+{
+    "display_name": "大一四五联队",
+    "description": "",
+    "logo": "placeholder-club.jpg",
+    "players": {
+        "starting": [
+            {
+                "number": 1,
+                "name": "黄家懿",
+                "img": "placeholder-player.jpg",
+                "position": "门将",
+                "locator": "GK",
+                "played": 5
+            }
+            ,{
+                "number": 7,
+                "name": "涂嘉航",
+                "img": "placeholder-player.jpg",
+                "position": "前锋",
+                "locator": "LW",
+                "played": 5
+            }
+            ,{
+                "number": 20,
+                "name": "龚培原",
+                "img": "placeholder-player.jpg",
+                "position": "前锋",
+                "locator": "ST",
+                "played": 5
+            }
+            ,{
+                "number": 25,
+                "name": "夏禹阳",
+                "img": "placeholder-player.jpg",
+                "position": "后卫",
+                "locator": "LCM",
+                "played": 5
+            }
+            ,{
+                "number": 8,
+                "name": "张嘉龙",
+                "img": "placeholder-player.jpg",
+                "position": "中场",
+                "locator": "RCM",
+                "played": 5
+            }
+            ,{
+                "number": 17,
+                "name": "谢鹏飞",
+                "img": "placeholder-player.jpg",
+                "position": "中场",
+                "locator": "LCM",
+                "played": 5
+            }
+            ,{
+                "number": 10,
+                "name": "秦天",
+                "img": "placeholder-player.jpg",
+                "position": "前锋",
+                "locator": "ST",
+                "played": 5
+            }
+            ,{
+                "number": 12,
+                "name": "曹铮",
+                "img": "placeholder-player.jpg",
+                "position": "中场",
+                "locator": "CAM",
+                "played": 5
+            }
+            ,{
+                "number": 11,
+                "name": "王骏杰",
+                "img": "placeholder-player.jpg",
+                "position": "中场",
+                "locator": "CAM",
+                "played": 5
+            }
+            ,{
+                "number": 29,
+                "name": "孙启越",
+                "img": "placeholder-player.jpg",
+                "position": "中场",
+                "locator": "CAM",
+                "played": 5
+            }
+            ,{
+                "number": 13,
+                "name": "王国宇",
+                "img": "placeholder-player.jpg",
+                "position": "门将",
+                "locator": "GK",
+                "played": 5
+            }
+        ],
+        "subs": [
+        ]
+    }
+}

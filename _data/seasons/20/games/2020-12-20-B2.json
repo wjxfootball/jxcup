@@ -1,0 +1,27 @@
+{
+    "date": "2020/12/20/12:00",
+    "type": "b-group-r2",
+    "images": [
+    
+    ],
+    "home": {
+        "key": "1-123",
+        "score": 2,
+        "events": [
+    
+            {"type": "goal", "time": 15, "player": "丁梓健"},
+            {"type": "goal", "time": 48, "player": "丁梓健"}
+           
+
+        ]
+    },
+    "away": {
+        "key": "1-zhuo",
+        "score": 2,
+        "events": [
+            {"type": "goal", "time": 26, "player": "李锋"},
+            {"type": "goal", "time": 56, "player": "李锋"}
+         
+        ]
+    }
+}

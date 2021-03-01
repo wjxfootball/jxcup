@@ -1,0 +1,100 @@
+{
+    "display_name": "不三不四就是五",
+    "description": "",
+    "logo": "placeholder-club.jpg",
+    "players": {
+        "starting": [
+            {
+                "number": 99,
+                "name": "凌玢岩",
+                "img": "placeholder-player.jpg",
+                "position": "门将",
+                "locator": "GK",
+                "played": 5
+            }
+            ,{
+                "number": 27,
+                "name": "俞书剑",
+                "img": "placeholder-player.jpg",
+                "position": "前锋",
+                "locator": "ST",
+                "played": 5
+            }
+            ,{
+                "number": 6,
+                "name": "丁易",
+                "img": "placeholder-player.jpg",
+                "position": "后卫",
+                "locator": "LCB",
+                "played": 5
+            }
+            ,{
+                "number": 17,
+                "name": "彭程",
+                "img": "placeholder-player.jpg",
+                "position": "中场",
+                "locator": "CDM",
+                "played": 5
+            }
+            ,{
+                "number": 4,
+                "name": "周子雯",
+                "img": "placeholder-player.jpg",
+                "position": "中场",
+                "locator": "RCM",
+                "played": 5
+            }
+            ,{
+                "number": 11,
+                "name": "徐奕凡",
+                "img": "placeholder-player.jpg",
+                "position": "后卫",
+                "locator": "LCB",
+                "played": 5
+            }
+            ,{
+                "number": 10,
+                "name": "张承义",
+                "img": "placeholder-player.jpg",
+                "position": "中场",
+                "locator": "CDM",
+                "played": 5
+            }
+            ,{
+                "number": 24,
+                "name": "周宇浩",
+                "img": "placeholder-player.jpg",
+                "position": "前锋",
+                "locator": "CAM",
+                "played": 5
+            }
+            ,{
+                "number": 38,
+                "name": "杨雪松",
+                "img": "placeholder-player.jpg",
+                "position": "后卫",
+                "locator": "CB",
+                "played": 5
+            }
+            ,{
+                "number": 66,
+                "name": "程子凡",
+                "img": "placeholder-player.jpg",
+                "position": "后卫",
+                "locator": "RCB",
+                "played": 5
+            } 
+            ,{
+                "number": 13,
+                "name": "谭哲",
+                "img": "placeholder-player.jpg",
+                "position": "后卫",
+                "locator": "RCB",
+                "played": 5
+            }
+
+        ],
+        "subs": [
+        ]
+    }
+}

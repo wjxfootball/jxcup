@@ -1,0 +1,24 @@
+{
+    "date": "2020/12/05/12:00",
+    "type": "a-group-r1",
+    "images": [
+    
+    ],
+    "home": {
+        "key": "2-12zhuo",
+        "score": 5,
+        "events": [
+            {"type": "goal", "time": 5, "player": "孙宇凡"},
+            {"type": "goal", "time": 10, "player": "兰自桐"},
+            {"type": "goal", "time": 20, "player": "孙宇凡"},
+            {"type": "goal", "time": 30, "player": "兰自桐"},
+            {"type": "goal", "time": 40, "player": "孙宇凡"}
+        ]
+    },
+    "away": {
+        "key": "3-3",
+        "score": 0,
+        "events": [
+        ]
+    }
+}

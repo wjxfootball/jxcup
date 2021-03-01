@@ -1,0 +1,75 @@
+{
+    "display_name": "大三124联队",
+    "description": "",
+    "logo": "placeholder-club.jpg",
+    "players": {
+        "starting": [
+            {
+                "number": 1,
+                "name": "",
+                "img": "placeholder-player.jpg",
+                "position": "门将",
+                "locator": "GK",
+                "played": 5
+            }
+            ,{
+                "number": 7,
+                "name": "王一璠",
+                "img": "placeholder-player.jpg",
+                "position": "前锋",
+                "locator": "LW",
+                "played": 5
+            }
+            ,{
+                "number": 6,
+                "name": "宋晨辉",
+                "img": "placeholder-player.jpg",
+                "position": "中场",
+                "locator": "LCM",
+                "played": 5
+            }
+            ,{
+                "number": 5,
+                "name": "周霏翔",
+                "img": "placeholder-player.jpg",
+                "position": "后卫",
+                "locator": "CB",
+                "played": 5
+            }
+            ,{
+                "number": 8,
+                "name": "刘子源",
+                "img": "placeholder-player.jpg",
+                "position": "中场",
+                "locator": "CDM",
+                "played": 5
+            }
+            ,{
+                "number": 9,
+                "name": "夏世杰",
+                "img": "placeholder-player.jpg",
+                "position": "前锋",
+                "locator": "ST",
+                "played": 5
+            }
+            ,{
+                "number": 10,
+                "name": "方涵",
+                "img": "placeholder-player.jpg",
+                "position": "中场",
+                "locator": "CAM",
+                "played": 5
+            }
+            ,{
+                "number": 4,
+                "name": "时雨",
+                "img": "placeholder-player.jpg",
+                "position": "中场",
+                "locator": "LAM",
+                "played": 5
+            }
+        ],
+        "subs": [
+        ]
+    }
+}

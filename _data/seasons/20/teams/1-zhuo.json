@@ -1,0 +1,75 @@
+{
+    "display_name": "大一卓班",
+    "description": "",
+    "logo": "placeholder-club.jpg",
+    "players": {
+        "starting": [
+            {
+                "number": 1,
+                "name": "安淇楚",
+                "img": "placeholder-player.jpg",
+                "position": "门将",
+                "locator": "GK",
+                "played": 5
+            }
+            ,{
+                "number": 7,
+                "name": "江昊成",
+                "img": "placeholder-player.jpg",
+                "position": "中场",
+                "locator": "CAM",
+                "played": 5
+            }
+            ,{
+                "number": 10,
+                "name": "李锋",
+                "img": "placeholder-player.jpg",
+                "position": "后腰",
+                "locator": "CDM",
+                "played": 5
+            }
+            ,{
+                "number": 5,
+                "name": "顾严鹏",
+                "img": "placeholder-player.jpg",
+                "position": "前锋",
+                "locator": "LW",
+                "played": 5
+            }
+            ,{
+                "number": 8,
+                "name": "",
+                "img": "placeholder-player.jpg",
+                "position": "中场",
+                "locator": "RCM",
+                "played": 5
+            }
+            ,{
+                "number": 9,
+                "name": "",
+                "img": "placeholder-player.jpg",
+                "position": "中场",
+                "locator": "LCM",
+                "played": 5
+            }
+            ,{
+                "number": 6,
+                "name": "",
+                "img": "placeholder-player.jpg",
+                "position": "前锋",
+                "locator": "ST",
+                "played": 5
+            }
+            ,{
+                "number": 4,
+                "name": "",
+                "img": "placeholder-player.jpg",
+                "position": "前锋",
+                "locator": "CAM",
+                "played": 5
+            }
+        ],
+        "subs": [
+        ]
+    }
+}
