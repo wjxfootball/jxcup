@@ -5,6 +5,12 @@
     "players": {
         "starting": [
             {
+                "number": 1,
+                "name": "安旭",
+                "position": "门将",
+                "locator": "GK"
+            }
+            ,{
                 "number": 9,
                 "name": "胡煜明",
                 "img": "611121/hym.jpg",
