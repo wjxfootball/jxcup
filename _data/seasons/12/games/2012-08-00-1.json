@@ -1,0 +1,20 @@
+{
+    "date": "2012/08/??/12:00",
+    "type": "group-r2",
+    "home": {
+        "key": "611111",
+        "score": 0,
+        "events": [
+        ],
+        "squad": "default"
+    },
+    "away": {
+        
+        "key": "613111",
+        "score": 1,
+        "events": [
+            {"type": "goal", "time": 15, "player": "潘登"}
+        ],
+        "squad": "default"
+    }
+}

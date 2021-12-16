@@ -1,0 +1,58 @@
+{
+    "date": "2012/09/15/16:00",
+    "type": "1/4-final",
+    "home": {
+        "key": "613111",
+        "score": 9,
+        "events": [
+            {"type": "goal", "time": 5, "player": "吉相冰"},
+            {"type": "goal", "time": 10, "player": "吉相冰"},
+            {"type": "goal", "time": 15, "player": "吉相冰"},
+            {"type": "goal", "time": 20, "player": "吉相冰"},
+            {"type": "goal", "time": 25, "player": "吉相冰"},
+            {"type": "goal", "time": 30, "player": "吉相冰"},
+            {"type": "goal", "time": 35, "player": "沙奔"},
+            {"type": "goal", "time": 40, "player": "狄学长"},
+            {"type": "goal", "time": 45, "player": "吉相冰"}
+        ],
+        "squad": [
+            {
+                "name": "王鸣轩"
+            }
+            ,{
+                "name": "刘念泽"
+            }
+            ,{
+                "name": "张伟铮"
+            }
+            ,{
+                "name": "孙聪"
+                ,"locator": "RB"
+            }
+            ,{
+                "name": "狄学长"
+                ,"locator": "RM"
+            }
+            ,{
+                "name": "潘登"
+            }
+            ,{
+                "name": "沙奔"
+            }
+            ,{
+                "name": "吉相冰"
+            }
+            ,{
+                "name": "陈晨"
+            }
+        ]
+    },
+    "away": {
+        "key": "610123",
+        "score": 1,
+        "events": [
+            {"type": "goal", "time": 49, "player": "?"}
+        ],
+        "squad": "default"
+    }
+}
