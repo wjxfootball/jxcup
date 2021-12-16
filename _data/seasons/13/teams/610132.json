@@ -5,13 +5,20 @@
     "players": {
         "starting": [
             {
+                "number": 3,
+                "name": "李世钊",
+                "img": "610132/lsz.jpg",
+                "position": "门将",
+                "locator": "GK"
+            }
+            ,{
                 "number": 9,
                 "name": "施祎辰",
                 "position": "前锋",
                 "locator": "ST"
             }
             ,{
-                "number": 3,
+                "number": 4,
                 "name": "颜兵健",
                 "position": "后卫",
                 "locator": "RM"
